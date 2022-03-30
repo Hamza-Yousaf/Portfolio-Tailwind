@@ -150,11 +150,11 @@ function Home() {
                 <h1 className="text-xl font-bold">Front End</h1>
                 <hr />
                 <p className="font-semibold mt-2">HTML/CSS</p>
-                <p className="font-semibold mt-2">React</p>
-
                 <p className="font-semibold mt-2">Javascript</p>
-                <p className="font-semibold mt-2">Angualr</p>
+
+                <p className="font-semibold mt-2">React</p>
                 <p className="font-semibold mt-2">Redux</p>
+                <p className="font-semibold mt-2">Next</p>
               </div>
 
               <div className="text-center">
